@@ -4,6 +4,7 @@
 </a>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/platforms-linux%20%7C%20macOS-blue.svg"/>
   <img src="https://img.shields.io/badge/package%20managers-SwiftPM-yellow.svg"/>
   <a href="https://github.com/yonaskolb/XcodeGen/releases">
     <img src="https://img.shields.io/github/release/yonaskolb/xcodegen.svg"/>
