@@ -2,6 +2,9 @@
 
 ## Master
 
+### Fixed
+- Fix invalid Products PBXFileReference structure [#115](https://github.com/yonaskolb/XcodeGen/pull/115) @toshi0383
+
 ## 1.3.0
 
 ### Added
